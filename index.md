@@ -7,14 +7,14 @@ Osnova
 ======
 1. predstaveni se - Ondrej Platek
     - behem diplomove prace jsem zprovoznil rozpoznavani reci pro cestinu a naimplementoval inkrementalni rozpoznavac open source
-        ktery se pouziva ve vyzkumnem 
-    - mam zenu adelu slinta mi na rameno a nekdy me jeji rec unavuje a nekdy se snazim jeji rec nerozpoznavat (rada on me zeny)
-    - uvrtala me do toho ma zena
+        - v Alex, cloudasr.com
+2. rec vs zvuk
+3. rec problemy s rozpoznavanim
 
 
 Testing
 =======
-Proc rec 
+Proc rec
 Proc rec pro pocitas
 Speky
 
@@ -29,10 +29,23 @@ Alternativní hypotézy při rozpoznávání řeči
     - cesky priklad
 
 
-Alex 
+Alex
     - logo
     - todo number
 
 
-Include pictures from Seeing sound
-    http://nbviewer.ipython.org/github/calebmadrigal/FourierTalkOSCON/blob/master/07_SeeingSound.ipynb
+
+TODO
+====
+- unify the size - convert to 1024x768
+- get rid off the black stripes
+- TODO IPA cite wiki for images
+- QR cody
+
+
+Links
+=====
+- Very nice showcase of sound properties http://nbviewer.ipython.org/github/calebmadrigal/FourierTalkOSCON/blob/master/07_SeeingSound.ipynb
+- http://ufal.mff.cuni.cz/
+- https://ufal.mff.cuni.cz/alex/ptics
+- http://www.cloudasr.com/
