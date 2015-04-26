@@ -3,44 +3,18 @@ title: This is my title
 layout: post
 ---
 
-Osnova
+Osnova - co si odnest domu
 ======
-1. predstaveni se - Ondrej Platek
-    - behem diplomove prace jsem zprovoznil rozpoznavani reci pro cestinu a naimplementoval inkrementalni rozpoznavac open source
-        - v Alex, cloudasr.com
-2. rec vs zvuk
-3. rec problemy s rozpoznavanim
+- Todo
 
-
-Testing
-=======
-Proc rec
-Proc rec pro pocitas
-Speky
-
-Pouziti - Vyslychaci, ano jiste atd - task based, mix-initiative atd - todo upresnit
-
-
-Odbocka - jak pracuji programatori - zvuky co vydavaji:-)
-
-Analog na digital (samplovani + todo digital)
-Alternativní hypotézy při rozpoznávání řeči
-    - demo anglictina
-    - cesky priklad
-
-
-Alex
-    - logo
-    - todo number
 
 
 
 TODO
 ====
-- unify the size - convert to 1024x768
-- get rid off the black stripes
-- TODO IPA cite wiki for images
-- QR cody
+- this website
+- display images
+- TODO IPA cite wiki for images, and Parrot
 
 
 Links
