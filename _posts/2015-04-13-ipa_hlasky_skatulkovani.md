@@ -1,6 +1,6 @@
 ---
 layout: portfolio_entry
-image: /images/13ipa_hlasky_skatulkovani.png
+image: {{ site.baseurl }/images/13ipa_hlasky_skatulkovani.png
 title: Jak se tvori hlasky? 
 ---
 Nejvice ovlivnuji tvorbu hlasek vibrace hlasivek, a typ prekazky v dutine ustni a nosni.

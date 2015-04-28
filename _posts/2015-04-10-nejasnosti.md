@@ -1,5 +1,5 @@
 ---
 layout: portfolio_entry
-image: /images/10nejasnosti.png
+image: {{ site.baseurl }}/images/10nejasnosti.png
 title: Nejasnosti v mluvene reci 
 ---

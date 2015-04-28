@@ -1,6 +1,6 @@
 ---
 layout: portfolio_entry
-image: /images/09frekvence_formanty.png
+image: {{ site.baseurl }}/images/09frekvence_formanty.png
 title: Formanty frekvence 
 ---
 Pro rozpoznavani reci se zvukovy signal prevadi do frekvencniho spektra.
