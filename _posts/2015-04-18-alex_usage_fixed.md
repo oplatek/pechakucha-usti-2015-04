@@ -1,5 +1,5 @@
 ---
-layout: portfolio_entry
+layout: slide_entry
 image: /images/18alex_usage_fixed.png
 title: Navstevnost Alex 
 ---

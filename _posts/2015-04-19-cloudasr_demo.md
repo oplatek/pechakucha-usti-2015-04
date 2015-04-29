@@ -1,5 +1,5 @@
 ---
-layout: portfolio_entry
+layout: slide_entry
 image: /images/19cloudasr_demo.png
 title: http://demo.cloudasr.com 
 ---

@@ -1,5 +1,5 @@
 ---
-layout: portfolio_entry
+layout: slide_entry
 image: /images/13ipa_hlasky_skatulkovani.png
 title: Jak se tvori hlasky? 
 ---

@@ -1,5 +1,5 @@
 ---
-layout: portfolio_entry
+layout: slide_entry
 image: /images/02zdarma_alex.png
 title: Alex si vyzkousejte zadarmo na 800 899 998 
 ---

@@ -1,5 +1,5 @@
 ---
-layout: portfolio_entry
+layout: slide_entry
 image: /images/16komponenty_ds.png
 title: Komponenty dialogoveho systemu Alex 
 ---

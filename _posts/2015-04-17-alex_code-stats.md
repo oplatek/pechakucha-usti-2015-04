@@ -1,5 +1,5 @@
 ---
-layout: portfolio_entry
+layout: slide_entry
 image: /images/17-alex_code-stats.png
 title: Statistika vyvoje Alex 
 ---

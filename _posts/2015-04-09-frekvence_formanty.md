@@ -1,5 +1,5 @@
 ---
-layout: portfolio_entry
+layout: slide_entry
 image: /images/09frekvence_formanty.png
 title: Formanty frekvence 
 ---

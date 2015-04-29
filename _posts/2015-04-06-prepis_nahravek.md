@@ -1,5 +1,5 @@
 ---
-layout: portfolio_entry
+layout: slide_entry
 image: /images/06prepis_nahravek.png
 title: Prepis reci uzivatelu Alex a CloudASR 
 ---
